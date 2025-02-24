@@ -9,3 +9,7 @@ desenvolvido nas aulas da disciplina linguagem de marcação na escola SENAI jan
 * CSS
 * git
 * github
+
+
+## Autor
+[Arthur Angelus](https://github.com/Arthur-Angelus)
